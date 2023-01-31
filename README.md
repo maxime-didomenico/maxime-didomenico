@@ -18,9 +18,9 @@
 <p>:memo: I always try to learn new things and to understand everything</p>
 </div>
 
-<h2 align=center>
+<!-- <h2 align=center>
 :floppy_disk: Some of my projects
-</h2>
+</h2>-->
 
 <h2 align=center>
 :computer: Useful links
