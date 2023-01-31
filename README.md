@@ -31,5 +31,3 @@
 <a href="https://maxime-di-domenico.students-laplateforme.io"><img src="https://img.shields.io/badge/portfolio-maxime.di--domenico-blue"></a>
 <a href="https://maxime-di-domenico.students-laplateforme.io/assets/CV-maxime-didomenico.pdf"><img src="https://img.shields.io/badge/cv-maxime.di--domenico-blue"></a>
 </p>
-
-https://img.shields.io/badge/cv-maxime.di--domenico-blue
