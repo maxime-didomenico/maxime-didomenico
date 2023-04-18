@@ -27,7 +27,7 @@
 </h2>
 
 <p align=center>
-<a href="mailto:git@maxime-didomenico.fr" ><img src="https://img.shields.io/badge/mail-maxime.di--domenico-blue"></a>
-<a href="https://maxime-di-domenico.students-laplateforme.io"><img src="https://img.shields.io/badge/portfolio-maxime.di--domenico-blue"></a>
+<a href="mailto:maxime.di-domenico@laplateforme.io"><img src="https://img.shields.io/badge/mail-maxime.di--domenico-blue"></a>
+<a href="https://maxime-didomenico.netlify.app"><img src="https://img.shields.io/badge/portfolio-maxime.di--domenico-blue"></a>
 <a href="https://drive.google.com/file/d/1cPlpaZr9yOtXJOROQ1qQWnXR6fk_qpC7/view"><img src="https://img.shields.io/badge/cv-maxime.di--domenico-blue"></a>
 </p>
